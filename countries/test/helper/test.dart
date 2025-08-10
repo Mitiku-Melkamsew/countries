@@ -1,0 +1,5 @@
+
+@GenerateMocks([CountryRepository])
+void main{
+  
+}
